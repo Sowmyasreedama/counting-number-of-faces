@@ -1,1 +1,2 @@
 # counting-number-of-faces
+The webcam connected to the system or the camera of the system activates and starts capturing the video. As soon as the camera starts it starts to fin the coordinates of multiple faces present in the video frame. After detecting the face coordinates it starts capturing the human faces present in the video frame. As the number of faces are captured in the frame, the count keeps increasing. Each face will be denoted by a numeric number and the highest number is the number of faces in the video.
